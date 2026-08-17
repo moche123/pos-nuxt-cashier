@@ -12,7 +12,7 @@ the real one:
 
 ## Quick start — without backend
 
-Fastest way to try the app. No DB, no `server/` setup.
+Fastest way to try the app. No DB needed, no `server/` setup.
 
 ```bash
 npm install
